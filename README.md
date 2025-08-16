@@ -22,6 +22,8 @@
 ### 💻 IDEs and Editors
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruxshona&show_icons=true&theme=tokyonight)
 
 
 ### 🛡️ Operating Systems
